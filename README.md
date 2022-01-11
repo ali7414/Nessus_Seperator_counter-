@@ -1,0 +1,2 @@
+# Nessus_Seperator_counter-
+In this program you will give the path of all of the .csv files of Nessus scanner and this program will count the number of vulnerabilities based on severity. It also create a three .csv files which one of them contain all the critical vulnerabilities from all of the Nessus .csv files. two others contain the High and Medium. I also add important fields from Nessus Report to this files.
